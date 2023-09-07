@@ -53,16 +53,3 @@ While working on any NLP problem, the following steps are typically involved:
 ## Dataset
 
 The dataset used in this project is sourced from [IMDb Dataset](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## Acknowledgements
-
-- Special thanks to the developers of NLTK, scikit-learn, and other libraries used in this project.
-- Dataset sourced from [Kaggle](https://www.kaggle.com/).
